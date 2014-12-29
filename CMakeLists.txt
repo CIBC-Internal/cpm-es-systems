@@ -36,7 +36,7 @@ endif()
 # ++ MODULE: Entity System
 CPM_AddModule("es"
   GIT_REPOSITORY "https://github.com/CIBC-Internal/cpm-entity-system"
-  GIT_TAG "origin/master"
+  GIT_TAG "origin/SCIRun"
   EXPORT_MODULE TRUE)
 
 # ++ MODULE: Tny Serialization Libary (C)
